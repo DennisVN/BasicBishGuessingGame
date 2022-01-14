@@ -1,0 +1,16 @@
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\bin\Debug\net5.0\SandBox3.exe
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\bin\Debug\net5.0\SandBox3.deps.json
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\bin\Debug\net5.0\SandBox3.runtimeconfig.json
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\bin\Debug\net5.0\SandBox3.runtimeconfig.dev.json
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\bin\Debug\net5.0\SandBox3.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\bin\Debug\net5.0\ref\SandBox3.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\bin\Debug\net5.0\SandBox3.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\SandBox3.csproj.AssemblyReference.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\SandBox3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\SandBox3.AssemblyInfoInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\SandBox3.AssemblyInfo.cs
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\SandBox3.csproj.CoreCompileInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\SandBox3.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\ref\SandBox3.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\SandBox3.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox3\SandBox3\obj\Debug\net5.0\SandBox3.genruntimeconfig.cache
